@@ -66,4 +66,5 @@ Config in Billing service
 
 ![image](https://user-images.githubusercontent.com/82539023/198901714-92c5ecb6-58fb-4edc-973c-5bc0da5b1f87.png)
 
+![image](https://user-images.githubusercontent.com/82539023/198902485-04996e78-8d15-4561-862b-b0aad7f864e2.png)
 
