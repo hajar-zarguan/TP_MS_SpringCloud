@@ -68,3 +68,20 @@ Config in Billing service
 
 ![image](https://user-images.githubusercontent.com/82539023/198902485-04996e78-8d15-4561-862b-b0aad7f864e2.png)
 
+
+Customer Service 
+
+![image](https://user-images.githubusercontent.com/82539023/198905594-98fbe21c-b8b9-4f91-b918-07570475abe2.png)
+
+Billing Service
+
+
+Eureka 
+
+![image](https://user-images.githubusercontent.com/82539023/198905906-c6355092-1e53-46bc-99fd-eb669b853b6b.png)
+
+
+Gateway
+
+![image](https://user-images.githubusercontent.com/82539023/198905887-70d380b4-228d-42ec-a076-2a60b53c7c89.png)
+
