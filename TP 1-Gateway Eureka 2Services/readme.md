@@ -74,6 +74,7 @@ Customer Service
 ![image](https://user-images.githubusercontent.com/82539023/198905594-98fbe21c-b8b9-4f91-b918-07570475abe2.png)
 
 Billing Service
+![image](https://user-images.githubusercontent.com/82539023/198906133-65fae550-dfd2-4fa7-8dc3-b3649fa0686b.png)
 
 
 Eureka 
