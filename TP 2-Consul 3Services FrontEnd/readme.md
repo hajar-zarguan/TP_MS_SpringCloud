@@ -94,3 +94,19 @@ get secret
 ![image](https://user-images.githubusercontent.com/82539023/204058554-b3b64f17-8924-44cd-8ec7-9dc2d17d3987.png)
 
 
+![image](https://user-images.githubusercontent.com/82539023/204058932-48575039-d326-4a92-bad7-f61cfeec13d1.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204058947-382fc18c-c859-4f89-899f-dc1bb180d7cf.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204058985-dc702a33-b0b8-4cfc-ba71-d00f971b52c4.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204059013-9d8df7db-9a63-4094-ad9a-132ea7a08346.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204059036-74ac334a-5f9d-4ef8-a607-3cbce309b4c2.png)
+
+Configurqtion Billing 
+![image](https://user-images.githubusercontent.com/82539023/204059234-1c27e124-6f94-482e-b095-6e0bd3ca14c9.png)
+
+
+![image](https://user-images.githubusercontent.com/82539023/204059383-2337484e-128a-4d8d-aa0b-82fd3e7905e9.png)
+
