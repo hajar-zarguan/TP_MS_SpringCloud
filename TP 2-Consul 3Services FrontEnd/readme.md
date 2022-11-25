@@ -107,6 +107,20 @@ get secret
 Configurqtion Billing 
 ![image](https://user-images.githubusercontent.com/82539023/204059234-1c27e124-6f94-482e-b095-6e0bd3ca14c9.png)
 
+Get 
 
 ![image](https://user-images.githubusercontent.com/82539023/204059383-2337484e-128a-4d8d-aa0b-82fd3e7905e9.png)
+
+Actuator
+![image](https://user-images.githubusercontent.com/82539023/204060507-46aed0b8-0ae1-431b-a060-b79d19fe2944.png)
+
+
+Servce billing is on 
+![image](https://user-images.githubusercontent.com/82539023/204061033-b49586f5-b826-4d6b-9d38-e402d1fad664.png)
+
+Secrets in vault
+
+![image](https://user-images.githubusercontent.com/82539023/204061919-bb00eaac-c0ca-422f-907b-5994920382bb.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204061943-c7874d55-8fe2-45cd-8b56-d09ce5d66292.png)
 
