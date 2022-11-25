@@ -74,3 +74,23 @@ most interesting dependency of order services
 
 
 
+Vault 
+![image](https://user-images.githubusercontent.com/82539023/204058000-3c3a7ec7-aeef-4688-b3c7-24301b64df09.png)
+
+Running
+![image](https://user-images.githubusercontent.com/82539023/204058151-500e389b-b574-4563-91e7-ac0b5f82f43d.png)
+Login
+![image](https://user-images.githubusercontent.com/82539023/204058228-70c18926-ac54-4247-92c5-243ef56b6c79.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204058298-078b4a86-8f9f-4aa4-89ba-33816cf14400.png)
+
+![image](https://user-images.githubusercontent.com/82539023/204058378-3ebfafba-e33d-448a-a036-aaa596759601.png)
+
+set variables 
+![image](https://user-images.githubusercontent.com/82539023/204058508-aa93cf7e-7e96-4ec4-80de-972821261c98.png)
+
+
+get secret
+![image](https://user-images.githubusercontent.com/82539023/204058554-b3b64f17-8924-44cd-8ec7-9dc2d17d3987.png)
+
+
