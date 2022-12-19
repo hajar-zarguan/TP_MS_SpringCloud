@@ -22,10 +22,15 @@ import java.util.stream.Stream;
 public class AccountCommandController {
     private CommandGateway cg;
     private EventStore es;
-    public AccountCommandController(CommandGateway cg,EventStore es) {
+
+    public AccountCommandController(CommandGateway cg, EventStore es) {
         this.cg = cg;
         this.es = es;
     }
+
+    public AccountCommandController() {
+    }
+
     @PostMapping(path = "/createAccount")
     public CompletableFuture<String> createAccount(@RequestBody CreateAccountRequestDTO request) {
         CompletableFuture<String> cr = cg.send(new CreateAccountCommand(UUID.randomUUID().toString(),
