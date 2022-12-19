@@ -16,6 +16,7 @@ Customer Service
 
 
 dans un premier lieu 
+
 ![image](https://user-images.githubusercontent.com/82539023/204004828-1a5dfea2-d7d9-4400-9724-8a6132df6984.png)
 
 ![image](https://user-images.githubusercontent.com/82539023/204004890-437fc3e2-7d55-4a32-9690-0c3221c28bd1.png)
@@ -29,10 +30,12 @@ Dossier de la configuration  https://github.com/hajar-zarguan/RepoForConfig
 ![image](https://user-images.githubusercontent.com/82539023/204010964-84b5c28c-90f8-4526-9a56-617d5b07e05e.png)
 
 Gateway
+
 ![image](https://user-images.githubusercontent.com/82539023/204012787-734fd6e7-0f31-4235-94cd-8257a9237ff4.png)
 
 
 Verification du gateway 
+
 ![image](https://user-images.githubusercontent.com/82539023/204013109-71533ed5-5cb9-4b4a-b48c-41163847fadb.png)
 
 Inventory
@@ -44,9 +47,11 @@ Inventory
 ![image](https://user-images.githubusercontent.com/82539023/204027593-a2a731f8-fd60-4111-a87a-f268f60040d4.png)
 
 Verification du gateway
+
 ![image](https://user-images.githubusercontent.com/82539023/204028449-fd216ddd-8573-4add-b543-f473aa1fb059.png)
 
 Projection Product 
+
 ![image](https://user-images.githubusercontent.com/82539023/204029837-9893efa0-b112-4981-b372-336e9a2603c7.png)
 
 
@@ -55,6 +60,7 @@ Order service
 ![image](https://user-images.githubusercontent.com/82539023/204033674-e33022a5-a3ff-41ce-8c58-c25acc9f9ce8.png)
 
 most interesting dependency of order services 
+
 ![image](https://user-images.githubusercontent.com/82539023/204033763-c27083d1-f16a-4e81-8d9e-d92daa918229.png)
 ![image](https://user-images.githubusercontent.com/82539023/204033829-807f6cb4-72ee-477c-a83b-4c04acc17fd9.png)
 ![image](https://user-images.githubusercontent.com/82539023/204033875-3d85ee80-0e3a-4e2b-a8a2-f61b4f5d2d27.png)
@@ -81,11 +87,15 @@ most interesting dependency of order services
 
 
 Vault 
+
 ![image](https://user-images.githubusercontent.com/82539023/204058000-3c3a7ec7-aeef-4688-b3c7-24301b64df09.png)
 
 Running
+
 ![image](https://user-images.githubusercontent.com/82539023/204058151-500e389b-b574-4563-91e7-ac0b5f82f43d.png)
+
 Login
+
 ![image](https://user-images.githubusercontent.com/82539023/204058228-70c18926-ac54-4247-92c5-243ef56b6c79.png)
 
 ![image](https://user-images.githubusercontent.com/82539023/204058298-078b4a86-8f9f-4aa4-89ba-33816cf14400.png)
@@ -93,10 +103,12 @@ Login
 ![image](https://user-images.githubusercontent.com/82539023/204058378-3ebfafba-e33d-448a-a036-aaa596759601.png)
 
 set variables 
+
 ![image](https://user-images.githubusercontent.com/82539023/204058508-aa93cf7e-7e96-4ec4-80de-972821261c98.png)
 
 
 get secret
+
 ![image](https://user-images.githubusercontent.com/82539023/204058554-b3b64f17-8924-44cd-8ec7-9dc2d17d3987.png)
 
 
@@ -111,6 +123,7 @@ get secret
 ![image](https://user-images.githubusercontent.com/82539023/204059036-74ac334a-5f9d-4ef8-a607-3cbce309b4c2.png)
 
 Configurqtion Billing 
+
 ![image](https://user-images.githubusercontent.com/82539023/204059234-1c27e124-6f94-482e-b095-6e0bd3ca14c9.png)
 
 Get 
@@ -118,10 +131,12 @@ Get
 ![image](https://user-images.githubusercontent.com/82539023/204059383-2337484e-128a-4d8d-aa0b-82fd3e7905e9.png)
 
 Actuator
+
 ![image](https://user-images.githubusercontent.com/82539023/204060507-46aed0b8-0ae1-431b-a060-b79d19fe2944.png)
 
 
 Servce billing is on 
+
 ![image](https://user-images.githubusercontent.com/82539023/204061033-b49586f5-b826-4d6b-9d38-e402d1fad664.png)
 
 Secrets in vault
