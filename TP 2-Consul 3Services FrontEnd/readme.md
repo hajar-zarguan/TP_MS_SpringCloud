@@ -1,5 +1,11 @@
+# <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> TP 2 : Consul 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 
-# TP 2 : Consul 
+## 🔗 La démonstration video est disponible sur YOUTUBE
+[cliquez-ici](https://youtu.be/MCT1qpOZcbo)
+
+
 
 Config service 
 ![Capture](https://user-images.githubusercontent.com/82539023/199108154-f07c12d9-67fd-44b0-afc1-74363caf9600.PNG)
