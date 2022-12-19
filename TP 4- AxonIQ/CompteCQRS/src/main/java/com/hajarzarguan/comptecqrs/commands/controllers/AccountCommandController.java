@@ -2,6 +2,7 @@ package com.hajarzarguan.comptecqrs.commands.controllers;
 import com.hajarzarguan.comptecqrs.commons.command.CreateAccountCommand;
 import com.hajarzarguan.comptecqrs.commons.dtos.CreateAccountRequestDTO;
 import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -13,7 +14,7 @@ import java.util.concurrent.CompletableFuture;
 
 @RestController
 @RequestMapping(path = "/commands/account")
-@AllArgsConstructor
+@AllArgsConstructor @NoArgsConstructor
 public class AccountCommandController {
     private CommandGateway commandGateway;
     @PostMapping(path = "/")
