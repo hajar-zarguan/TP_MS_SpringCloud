@@ -24,7 +24,6 @@ public class AccountAggregate {
 
     public AccountAggregate() {
     }
-
     @CommandHandler
     public AccountAggregate(CreateAccountCommand command) {
         if (command.getInitialBalance() < 0) {

@@ -20,16 +20,12 @@ import java.util.stream.Stream;
 @RestController
 @RequestMapping(path = "/api/v1/accountCommands")
 public class AccountCommandController {
-
     private CommandGateway cg;
     private EventStore es;
-
-
     public AccountCommandController(CommandGateway cg,EventStore es) {
         this.cg = cg;
         this.es = es;
     }
-
     @PostMapping(path = "/createAccount")
     public CompletableFuture<String> createAccount(@RequestBody CreateAccountRequestDTO request) {
         CompletableFuture<String> cr = cg.send(new CreateAccountCommand(UUID.randomUUID().toString(),
