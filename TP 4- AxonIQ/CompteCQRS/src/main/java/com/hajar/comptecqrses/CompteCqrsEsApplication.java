@@ -1,13 +1,12 @@
-package com.hajarzarguan.comptecqrs;
-
+package com.hajar.comptecqrses;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CompteCqrsApplication {
+public class CompteCqrsEsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CompteCqrsApplication.class, args);
+        SpringApplication.run(CompteCqrsEsApplication.class, args);
     }
 
 }

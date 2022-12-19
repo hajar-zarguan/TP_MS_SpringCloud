@@ -1,10 +1,10 @@
-package com.hajarzarguan.comptecqrs;
+package com.hajar.comptecqrses;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CompteCqrsApplicationTests {
+class CompteCqrsEsApplicationTests {
 
     @Test
     void contextLoads() {
