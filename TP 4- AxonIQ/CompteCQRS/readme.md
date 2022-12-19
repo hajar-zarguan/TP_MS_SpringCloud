@@ -62,6 +62,10 @@ Controller et l'utilisation de QueryGateway
 
 
 
+phpMyAdmin 
+
+![image](https://user-images.githubusercontent.com/82539023/208423508-e2414e85-9d03-4b09-9ee1-64e8d1085fb3.png)
+
 
 
 
